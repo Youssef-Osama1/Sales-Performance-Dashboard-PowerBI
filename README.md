@@ -28,7 +28,7 @@ This project showcases a comprehensive Power BI dashboard built to analyze sales
 
 You can preview the full dashboard layout and visuals (all 7 sheets) in this PDF file:
 
-📁 [Sales-Dashboard-Overview.pdf](C:\Users\Youssef\Downloads\Second Task\Sales Dashboard.pdf)
+📁 [Sales-Dashboard-Overview.pdf](Sales-Dashboard-Overview.pdf)
 
 ---
 
